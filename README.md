@@ -13,10 +13,7 @@
 
 
 ## 🛠️ Tech Stack
-
 **Languages:** JavaScript, HTML5, CSS3  
 **Frontend:** React.js, Tailwind CSS, Bootstrap  
-
 **Backend:** Node.js, Express.js  
-
 **Database:** MongoDB
